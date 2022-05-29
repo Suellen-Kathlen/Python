@@ -1,19 +1,10 @@
 # Escolhendo o cardápio em Python
 
-Mas se quiser escolher o que fazer no final de semana...
+Mas se quiser escolher o que fazer no final de semana copie o código da foto no replit e divirta-se!
 
 
-import random
-numero = random.randint(1,4)
+![image](https://user-images.githubusercontent.com/99774430/170848688-9da61dbe-cc6d-4b63-b4b8-2d9b78ccdc36.png)
 
 
-if numero == 1:
-  print("Let's dance!")
-elif numero == 2:
-  print("Let's to the beach!")
-elif numero == 3:
-  print("Movie and Pizza!")
-elif numero == 4:
-  print("Let's ride a bike!")
 
 ![image](https://user-images.githubusercontent.com/99774430/170847343-85777d65-b55c-4a13-b56e-8d00d7693dd2.png)
